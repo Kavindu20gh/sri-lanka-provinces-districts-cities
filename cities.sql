@@ -913,7 +913,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (884, 11, 'Ududumbara', NULL, NULL, NULL, NULL, NULL, '20950', 7.3552, 80.8375),
 (885, 11, 'Uduwahinna', NULL, NULL, NULL, NULL, NULL, '20934', 7.2833, 80.8917),
 (886, 11, 'Uduwela', NULL, NULL, NULL, NULL, NULL, '20164', 7.2722, 80.6667),
-(887, 11, 'Ulapane', NULL, NULL, NULL, NULL, NULL, '20562', 7.114072, 80.552445),
+(887, 11, 'Ulapane', 'උලපනෙ', NULL, NULL, NULL, NULL, '20562', 7.114072, 80.552445),
 (888, 11, 'Unuwinna', NULL, NULL, NULL, NULL, NULL, '20708', 7.1517, 80.7118),
 (889, 11, 'Velamboda', NULL, NULL, NULL, NULL, NULL, '20640', 7.0523, 80.5023),
 (890, 11, 'Watagoda', NULL, NULL, NULL, NULL, NULL, '22110', 7.39731, 80.588304),
