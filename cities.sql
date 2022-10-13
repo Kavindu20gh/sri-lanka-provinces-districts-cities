@@ -736,7 +736,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (707, 10, 'Mahakalupahana', NULL, NULL, NULL, NULL, NULL, '12126', 6.3917, 80.1417),
 (708, 10, 'Maharangalla', NULL, NULL, NULL, NULL, NULL, '71211', 6.4667, 80),
 (709, 10, 'Malgalla Talangalla', NULL, NULL, NULL, NULL, NULL, '80144', 6.5791, 80.2233),
-(710, 10, 'Matugama', NULL, NULL, NULL, NULL, NULL, '12100', 6.5222, 80.1144),
+(710, 10, 'Matugama', මතුගම, NULL, NULL, NULL, NULL, '12100', 6.5222, 80.1144),
 (711, 10, 'Meegahatenna', NULL, NULL, NULL, NULL, NULL, '12130', 6.3637, 80.285),
 (712, 10, 'Meegama', NULL, NULL, NULL, NULL, NULL, '12094', 6.648, 80.0089),
 (713, 10, 'Meegoda', NULL, NULL, NULL, NULL, NULL, '10504', 6.8053, 80.0829),
